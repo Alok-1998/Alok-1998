@@ -10,4 +10,4 @@ I am a data-driven computer science postgraduate student with knowledge and expe
 
 # Here is link to my resume...Please visit.
 
-- <a href ="https://docs.google.com/document/d/1v__3gFKv-MsZgK_qL3rQfu-p-auAZNv2BpwybCvp9Jg/edit?usp=sharing"> Resume </a>
+- <a href ="https://drive.google.com/file/d/1mesItB1ec8zW5Z_f8SFSvJXeLUxRcHYO/view?usp=sharing"> Resume </a>
